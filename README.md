@@ -86,7 +86,7 @@ Consisting 5 games: Chess, Tic-tac-toe,Sudoku, 2048 and Minesweeper. Project is 
 To run the project locally on your machine you must have a current version of `Nodejs` installed on your machine. Now run the following commands:
 
 ```
-$ git clone https://github.com/Siddharth2808/GameSpace
+$ git clone https://github.com/zanisgod/GameSpace.git
 $ npm install
 $ npm start
 ```
